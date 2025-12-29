@@ -1,5 +1,5 @@
 import pytest
-from src.my_packages.dbConnection import create_connection
+from src.dbConnection import create_connection
 
 
 driver_name="{ODBC Driver 17 for SQL Server}"
